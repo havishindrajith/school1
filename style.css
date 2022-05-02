@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: white;
+}
+.navbar-nav{
+    color:aqua;
+}
+h1{
+    color: white;
+}
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin: 200px;
+}
